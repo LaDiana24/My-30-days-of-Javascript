@@ -9,4 +9,4 @@ console.log(string.endsWith('in this world'))   // true
 let country = 'Indonesia'
 console.log(country.endsWith('nesia'))   // true
 console.log(country.endsWith('Nesia'))    // false
-console.log(country.endsWith(Indo))      // false
+console.log(country.endsWith('Indo'))      // false
