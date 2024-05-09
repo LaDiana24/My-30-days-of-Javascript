@@ -7,6 +7,6 @@ console.log(string.endsWith('love'))    // false
 console.log(string.endsWith('in this world'))   // true
 
 let country = 'Indonesia'
-console.log(country.endsWith('land'))   // true
-console.log(country.endsWith('fin'))    // false
-console.log(country.endsWith(Fin))      // false
+console.log(country.endsWith('nesia'))   // true
+console.log(country.endsWith('Nesia'))    // false
+console.log(country.endsWith(Indo))      // false
