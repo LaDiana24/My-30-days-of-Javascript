@@ -1,0 +1,7 @@
+let space = ' '
+let firstName = 'Momo'
+let lastName = 'Ucing'
+let country = 'Indonesia'
+let city = 'Jakarta'
+let language = 'JavaScript'
+let job = 'cat'
